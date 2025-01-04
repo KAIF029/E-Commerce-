@@ -1,5 +1,5 @@
 # E-Commerce Website
-Built an e-commerce app using JavaScript and Vite. Features product listings, shopping cart,. Designed for a seamless shopping experience with responsive design.
+Built an e-commerce app using Html, CSS, JavaScript. Features product listings, shopping cart,. Designed for a seamless shopping experience with responsive design.
 
 Live Demo https://glittery-taiyaki-0a547b.netlify.app/
 
